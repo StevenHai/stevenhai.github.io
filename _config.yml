@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Steven Hai's Personal Website"
+author: "Steven Hai"
+description: "The answer is not floating in the Ether"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
