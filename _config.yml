@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jiawei.hai@kcl.ac.uk"}
-  - {title: Factdoods, icon: <i class="fa-brands fa-ethereum"></i>, url: "https://fatdoods.io/"}
+  - {title: Factdoods, icon: <i class="fa-solid fa-atom-simple"></i>, url: "https://fatdoods.io/"}
   - {title: Twitter, icon: <i class="fa-brands fa-twitter"></i>, url: "https://twitter.com/Stevenhai08"}
 
 comments:
